@@ -16,7 +16,7 @@
     "http-status": "^0.2.3",
     "moment": "^2.13.0",
     "mongodb": "^2.2.5",
-    "mongoose": "^4.5.0",
+    "mongoose": "^5.7.11",
     "mongoose-unique-validator": "^1.0.2",
     "morgan": "^1.7.0",
     "node-fs": "^0.1.7",
